@@ -1050,7 +1050,6 @@ button,
 				#top .image {
 					margin: 0 auto 2em auto;
 				}
-
 	}
 
 /* Small */
@@ -1210,11 +1209,11 @@ button,
 			}
 
 				#nav a {
-					padding: 0 0.75em;
+					padding: 0 0.5em;
 					height: inherit;
 					line-height: inherit;
 					border-radius: 0;
-					font-size: smaller;
+					font-size: x-small;
 				}
 
 					#nav a:hover {
