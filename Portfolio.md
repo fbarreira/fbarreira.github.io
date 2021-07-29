@@ -94,7 +94,7 @@ Quotes that will not inspire nor depress you.
 
 ### Space Weight Calculator
 
-Find out your weight in other planets from the solar system.
+Find out how much you weight in other planets.
 
 *Kotlin, Android Studio*
 
