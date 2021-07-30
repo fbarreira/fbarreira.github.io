@@ -900,7 +900,7 @@ button,
 			}
 
 			#nav a.active {
-				background: #484848;
+				background: #e63946;
 			}
 
 				#nav a.active:before {
@@ -1050,6 +1050,7 @@ button,
 				#top .image {
 					margin: 0 auto 2em auto;
 				}
+
 	}
 
 /* Small */
