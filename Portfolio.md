@@ -36,7 +36,7 @@ A poker dice game set in a distant galaxy. The player can challenge other bounty
 
 Igwrite
 
-A toolkit for creating characters, ambient and plot points, very useful for playing RPG or writing stories. Is it possible to customize the parameters for generation as well as save and share generated cards.
+A toolkit for creating characters, ambient and plot points, very useful for playing RPG or writing stories. It is possible to customize the parameters for generation as well as save and share generated cards.
 
 
 
